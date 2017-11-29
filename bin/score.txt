@@ -1,0 +1,3 @@
+final,50
+midterm,40
+quiz,10
